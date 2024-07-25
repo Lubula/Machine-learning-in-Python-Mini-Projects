@@ -1,7 +1,7 @@
 # Customer-Segmentation
 This repository provides an in-depth analysis of customer segmentation using various clustering algorithms.
 
-1. Clustring :
+1. Clustring:
    1.1 Data Preparation
      - Load and preprocess the customer data.
    1.2 Normalization
