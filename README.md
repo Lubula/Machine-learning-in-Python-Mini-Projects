@@ -1,5 +1,5 @@
 # Various in depth Machine Learning Project:
-## 1. This repository provides an in-depth analysis of customer segmentation using various clustering algorithms:
+1. This repository provides an in-depth analysis of customer segmentation using various clustering algorithms:
    1.1 Data Preparation
      - Load and preprocess the customer data.
    1.2 Normalization
@@ -8,7 +8,7 @@
      - K-Means Clustering
      - Hierarchical Clustering
      - DBSCAN
-##2. Build a Regression Model in Keras
+2. Build a Regression Model in Keras
    2.A Build a baseline model
      - Use the Keras library to build a neural network with the following
    2.B Normalize the data
