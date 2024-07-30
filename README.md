@@ -1,4 +1,4 @@
-## 1. Machine Learning Repo:
+# Machine Learning Repo:
 1. Clusterig; This repository provides an in-depth analysis of customer segmentation using various clustering algorithms:
    1.1 Data Preparation
      - Load and preprocess the customer data.
