@@ -12,7 +12,7 @@
      - 
 2. Build a Regression Model in Keras:
    
-   2.A Build a baseline model
+    2.A Build a baseline model
      - Use the Keras library to build a neural network with the following
     2.B Normalize the data
      - Repeat Part A but use a normalized version of the data
