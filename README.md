@@ -1,4 +1,4 @@
-# Various in depth Machine Learning Project:
+# Machine Learning Projects using diffirent tech stacks:
 1. This repository provides an in-depth analysis of customer segmentation using various clustering algorithms:
 
    1.1 Data Preparation
