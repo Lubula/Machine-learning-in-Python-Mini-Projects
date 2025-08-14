@@ -23,4 +23,4 @@ Goal: Perform customer segmentation using different clustering algorithms.
 Languages: Python 3
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
 - Models Used: K-Means, Hierarchical, DBSCAN, ResNet50, VGG16
-- Work done; Data Preparation, Feature Normalization, Applying Multiple Clustering Algorithms, Model Evaluations
+- Work done; Data Preparation, Feature Normalization, Applying Multiple Clustering Algorithms, Model Evaluations (I am repeating myself, did you notice :)
